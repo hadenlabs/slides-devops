@@ -1,5 +1,7 @@
- <!-- Space: SlidesTemplate -->
-<!-- Title: Project -->
+ <!-- Space: SlidesDevOps --> 
+<!-- Title: Project --> 
+
+
 
 <!--
 
@@ -15,19 +17,28 @@
 
   -->
 
-[![Latest Release](https://img.shields.io/github/release/hadenlabs/slides-template)](https://github.com/hadenlabs/slides-template/releases) [![Lint](https://img.shields.io/github/workflow/status/hadenlabs/slides-template/lint-code)](https://github.com/hadenlabs/slides-template/actions?workflow=lint-code) [![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)](https://github.com/pre-commit/pre-commit) [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow)](https://conventionalcommits.org) [![KeepAChangelog](https://img.shields.io/badge/Keep%20A%20Changelog-1.0.0-%23E05735)](https://keepachangelog.com)
 
-# slides-template
+ [![Latest Release](https://img.shields.io/github/release/hadenlabs/slides-devops)](https://github.com/hadenlabs/slides-devops/releases) [![Lint](https://img.shields.io/github/workflow/status/hadenlabs/slides-devops/lint-code)](https://github.com/hadenlabs/slides-devops/actions?workflow=lint-code) [![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)](https://github.com/pre-commit/pre-commit) [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow)](https://conventionalcommits.org) [![KeepAChangelog](https://img.shields.io/badge/Keep%20A%20Changelog-1.0.0-%23E05735)](https://keepachangelog.com)
 
-slides-template for project
+# slides-devops
 
-### Replace name project to New Project
 
-```bash
-  agr 'slides-template' 'new-project'
-```
+
+
+slides-devops for project 
+
+
+
+
+
+
+
+
+
+
 
 ## Requirements
+
 
 This is a list of plugins that need to be installed previously to enjoy all the goodies of this configuration:
 
@@ -36,17 +47,35 @@ This is a list of plugins that need to be installed previously to enjoy all the 
 - [python](https://www.python.org)
 - [taskfile](https://github.com/go-task/task)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Help
 
 **Got a question?**
 
-File a GitHub [issue](https://github.com/hadenlabs/slides-template/issues).
+File a GitHub [issue](https://github.com/hadenlabs/slides-devops/issues).
+
 
 ## Contributing
 
 ### Bug Reports & Feature Requests
 
-Please use the [issue tracker](https://github.com/hadenlabs/slides-template/issues) to report any bugs or file feature requests.
+
+Please use the [issue tracker](https://github.com/hadenlabs/slides-devops/issues) to report any bugs or file feature requests.
+
 
 ### Development
 
@@ -59,7 +88,10 @@ In general, PRs are welcome. We follow the typical "fork-and-pull" Git workflow.
 
 5.  Submit a **Pull Request** so that we can review your changes
 
+
+
 **NOTE:** Be sure to rebase the latest changes from "upstream" before making a pull request!
+
 
 ## Module Versioning
 
@@ -73,21 +105,37 @@ Using the given version number of `MAJOR.MINOR.PATCH`, we apply the following co
 
 ### Backwards compatibility in `0.0.z` and `0.y.z` version
 
-- In the context of initial development, backwards compatibility in versions `0.0.z` is **not guaranteed** when `z` is increased. (Initial development)
-- In the context of pre-release, backwards compatibility in versions `0.y.z` is **not guaranteed** when `y` is increased. (Pre-release)
+- In the context of initial development, backwards compatibility in versions `0.0.z` is **not guaranteed** when `z` is
+  increased. (Initial development)
+- In the context of pre-release, backwards compatibility in versions `0.y.z` is **not guaranteed** when `y` is
+  increased. (Pre-release)
+
+
+
 
 ## Copyright
 
 Copyright © 2018-2021 [Hadenlabs](https://hadenlabs.com)
 
+
+
 ## Trademarks
 
 All other trademarks referenced herein are the property of their respective owners.
+
+
+
+
+
 
 ## License
 
 The code and styles are licensed under the LGPL-3.0 license [See project license.](LICENSE).
 
-## Don't forget to 🌟 Star 🌟 the repo if you like slides-template
 
-[Your feedback is appreciated](https://github.com/hadenlabs/slides-template/issues)
+
+## Don't forget to 🌟 Star 🌟 the repo if you like slides-devops
+
+
+[Your feedback is appreciated](https://github.com/hadenlabs/slides-devops/issues)
+

@@ -1,4 +1,4 @@
-site_name: slides-template Documentation
+site_name: slides-devops Documentation
 theme: 'material'
 markdown_extensions:
   - toc:
@@ -15,8 +15,8 @@ extra:
   font:
     text: 'Source Sans Pro'
 
-repo_name: 'hadenlabs/slides-template'
-repo_url: 'https://github.com/hadenlabs/slides-template'
+repo_name: 'hadenlabs/slides-devops'
+repo_url: 'https://github.com/hadenlabs/slides-devops'
 copyright: 'Copyright © 2021 <a href="https://hadenlabs.com">hadenlabs</a>'
 
 google_analytics:

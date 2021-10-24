@@ -1,8 +1,8 @@
-<!-- Space: SlidesTemplate -->
+<!-- Space: SlidesDevOps -->
 <!-- Parent: Project -->
 <!-- Title: Commands -->
 
-<!-- Label: SlidesTemplate -->
+<!-- Label: SlidesDevOps -->
 <!-- Label: Project -->
 <!-- Label: Commands -->
 <!-- Include: docs/disclaimer.md -->

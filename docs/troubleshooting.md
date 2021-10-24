@@ -1,8 +1,8 @@
-<!-- Space: SlidesTemplate -->
+<!-- Space: SlidesDevOps -->
 <!-- Parent: Project -->
 <!-- Title: Troubleshooting -->
 
-<!-- Label: SlidesTemplate -->
+<!-- Label: SlidesDevOps -->
 <!-- Label: Project -->
 <!-- Label: Troubleshooting -->
 <!-- Include: docs/disclaimer.md -->

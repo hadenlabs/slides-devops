@@ -1,8 +1,8 @@
-<!-- Space: SlidesTemplate -->
+<!-- Space: SlidesDevOps -->
 <!-- Parent: Project -->
 <!-- Title: Env Vars -->
 
-<!-- Label: SlidesTemplate -->
+<!-- Label: SlidesDevOps -->
 <!-- Label: Project -->
 <!-- Label: Env Vars -->
 <!-- Include: docs/disclaimer.md -->

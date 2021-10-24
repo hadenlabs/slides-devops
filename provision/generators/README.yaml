@@ -5,13 +5,13 @@
 #
 
 # Name of this project
-name: slides-template
+name: slides-devops
 
 email:
   support: support@hadenlabs.com
 
 confluence:
-  space: SlidesTemplate
+  space: SlidesDevOps
   title: Project
 
 # Logo for this project
@@ -21,16 +21,16 @@ confluence:
 license: 'LGPL-3.0'
 
 # Canonical GitHub repo
-github_repo: hadenlabs/slides-template
+github_repo: hadenlabs/slides-devops
 
 # Badges to display
 badges:
   - name: Latest Release
-    image: https://img.shields.io/github/release/hadenlabs/slides-template
-    url: https://github.com/hadenlabs/slides-template/releases
+    image: https://img.shields.io/github/release/hadenlabs/slides-devops
+    url: https://github.com/hadenlabs/slides-devops/releases
   - name: Lint
-    image: https://img.shields.io/github/workflow/status/hadenlabs/slides-template/lint-code
-    url: https://github.com/hadenlabs/slides-template/actions?workflow=lint-code
+    image: https://img.shields.io/github/workflow/status/hadenlabs/slides-devops/lint-code
+    url: https://github.com/hadenlabs/slides-devops/actions?workflow=lint-code
   - name: pre-commit
     image: https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white
     url: https://github.com/pre-commit/pre-commit
@@ -53,10 +53,4 @@ requirements: |-
 # Short description of this project
 description: |-
 
-  slides-template for project
-
-  ### Replace name project to New Project
-
-  ```bash
-    agr 'slides-template' 'new-project'
-  ```
+  slides-devops for project

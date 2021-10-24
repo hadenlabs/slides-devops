@@ -1,5 +1,5 @@
 module.exports = {
-  pathPrefix: '/slides-template',
+  pathPrefix: '/slides-devops',
   plugins: [
     'gatsby-plugin-catch-links',
     {
